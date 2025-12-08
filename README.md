@@ -1,11 +1,6 @@
 
 🎯 CIFAR-10 CNN Comparison Project
 
-https://img.shields.io/badge/TensorFlow-2.x-FF6F00
-https://img.shields.io/badge/Python-3.8+-blue
-https://img.shields.io/badge/Jupyter-Notebook-orange
-https://img.shields.io/badge/License-MIT-green
-https://img.shields.io/badge/Dataset-CIFAR--10-lightgrey
 
 📋 Project Overview
 
